@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer+Trainee+at+A2SV+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer+DevOps+Cloud+Engineer+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact)](https://git.io/typing-svg)
 
 ###
 
