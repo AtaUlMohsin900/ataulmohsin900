@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer+DevOps+Cloud+Engineer+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Pakistan;Building+Scalable+AI+%26+Agent+&Systems;Training+CPP+DSA+and+Build+largeScall+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=#f85d7f&center=true&vCenter=true&width=750&lines=Software+Developer+DevOps+Cloud+Engineer+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Pakistan;Building+Scalable+AI+%26+Agent+&Systems;Training+CPP+DSA+and+Build+largeScall+apps)](https://git.io/typing-svg)
 
 ###
 
