@@ -1,5 +1,5 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+Trainee+at+A2SV+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=#f85d7f&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Engineer+Trainee+at+A2SV+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Ethiopia;Building+Scalable+AI+%26+Flutter+Systems;Training+ML+Models+For+Real+World+Impact" alt="Typing SVG" />
   </a>
 </div>
 <h3 align="center"> I am a Fullstack Software Developer and also certified IBM DevOps Engineer working in ZTBL.</h3>
