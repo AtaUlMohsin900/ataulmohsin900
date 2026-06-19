@@ -1,5 +1,5 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU; Software+Developer+DevOps+Cloud+Engineer+(Google-Backed);Competitive+Programmer+%7C+Pakistan;Building+Scalable+AI+%26+Agengts+Systems+Design+and;Training+AI+LLM's+For+Real+World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=750&lines=Full+Stack; Software+Developer+DevOps+Cloud+Engineer+(Google-Backed);Competitive+Programmer+%7C+Pakistan;Building+Scalable+AI+%26+Agengts+Systems+Design+and;Training+AI+LLM's+For+Real+World+Impact" alt="Typing SVG" />
   </a>
 </div>
 
