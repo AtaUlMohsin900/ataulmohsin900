@@ -1,9 +1,8 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU;Software+Developer+DevOps+Cloud+Engineer+(Google-Backed);Competitive+Programmer+%7C+EtCPC+Top+8+Pakistan;Building+Scalable+AI+%26+Agengts+Systems+Design+and;Training+AI+LLM's+For+Real+World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=750&lines=CSE+Student+at+ASTU; Software+Developer+DevOps+Cloud+Engineer+(Google-Backed);Competitive+Programmer+%7C+Pakistan;Building+Scalable+AI+%26+Agengts+Systems+Design+and;Training+AI+LLM's+For+Real+World+Impact" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center"> I am a Fullstack Software Developer and also certified IBM DevOps Engineer working in ZTBL.</h3>
-<p>I have over 04 years of experience working mostly with startups as honorary. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmbHp0OWk3b2phMGRyZmpudGJ6YzlwMjA5cnoyMmZubDY5YmZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif">
 
 </br>
