@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>Languages</td>
-    <td>JavaScript, TypeScript, Python, PHP, C, HTML, CSS</td>
+    <td>JavaScript, TypeScript, Python, CPP</td>
   </tr>
   <tr>
     <td>Frontend</td>
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td>Backend</td>
-    <td>Node.js, Express.js, FastAPI, Laravel</td>
+    <td>Node.js, Express.js, FastAPI</td>
   </tr>
   <tr>
     <td>Data</td>
