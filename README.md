@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td valign="top" width="38%">
-      <img alt="Coding" width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmbHp0OWk3b2phMGRyZmpudGJ6YzlwMjA5cnoyMmZubDY5YmZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif">
+      <img alt="Coding" width="100%" src="https://medium.com/@ansballard/creating-gifs-for-web-development-from-the-terminal-6ad529aae4a4">
     </td>
   </tr>
 </table>
