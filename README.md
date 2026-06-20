@@ -1,6 +1,56 @@
 <div id="readme-top" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;DevOps+%26+Cloud+Engineer;Competitive+Programmer;Building+scalable+software+for+real-world+impact" alt="Typing SVG" />
 </div>
+<!-- Lang -->
+<h3 align="center">Languages and Tools:</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://github.com/user-attachments/assets/6179b572-a732-40ec-a27a-fd720dc0c365" alt="html5" width="65" height="65"/> 
+        <br>Html
+      </td>
+      <td align="center" width="90">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/> 
+        <br>Tailwind
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" />
+        <br>Bootstrap
+      </td>
+      <td align="center">
+         <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/d5b14f79-065c-45ac-8e09-9d1d8826dbcc" />
+         <br>Git
+      </td>
+      <td align="center" width="90">
+        <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/b9f712ed-ac31-45c6-a928-3047e9914aa6" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="90">
+        <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" width="60" height="60" alt="Next.js" />
+        <br>Next.js
+      </td>       
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+        <br>Node.js
+      </td>    
+    </tr> 
+  </table>
+</div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ataulmohsin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohsin900" />
