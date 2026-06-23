@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FA9A&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;DevOps+%26+Cloud+Engineer;Competitive+Programmer;Building+scalable+software+for+real-world+impact;Strong+Networking+Knowledge" alt="Typing SVG" />
 </div>
 <!-- Lang -->
-<h3 align="center&color=00FA9A">Languages and Tools:</h3>
+<h3 align="cente">Languages and Tools:</h3>
 
 <div align="center">
   <table>
