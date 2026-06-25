@@ -18,7 +18,7 @@
       <td align="center" width="90">
        <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
         <br>Html
@@ -54,7 +54,6 @@
     </tr> 
   </table>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ataulmohsin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohsin900" />
   <a href="https://ataulmohsin.vercel.app/">Portfolio</a>
