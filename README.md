@@ -18,10 +18,10 @@
       <td align="center" width="90">
        <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://skillicons.dev/icons?i=aws"alt="width="65" height="65"" />
   </a>
 </p>
-        <br>Html
+        <br>AWS
       </td>
       <td align="center" width="90">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/> 
