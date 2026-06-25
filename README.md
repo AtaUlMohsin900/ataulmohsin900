@@ -1,7 +1,6 @@
 <div id="readme-top" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FA9A&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;DevOps+%26+Cloud+Engineer;Competitive+Programmer;Building+scalable+software+for+real-world+impact;Strong+Networking+Knowledge" alt="Typing SVG" />
 </div>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!-- Lang -->
 <h3 align="cente">Languages and Tools:</h3>
 
@@ -17,7 +16,7 @@
         <br>TypeScript
       </td>
       <td align="center" width="90">
-        <img src="https://github.com/user-attachments/assets/6179b572-a732-40ec-a27a-fd720dc0c365" alt="html5" width="65" height="65"/> 
+        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" alt="html5" width="65" height="65"/> 
         <br>Html
       </td>
       <td align="center" width="90">
@@ -51,6 +50,7 @@
     </tr> 
   </table>
 </div>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ataulmohsin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohsin900" />
   <a href="https://ataulmohsin.vercel.app/">Portfolio</a>
