@@ -16,7 +16,11 @@
         <br>TypeScript
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" alt="html5" width="65" height="65"/> 
+       <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
         <br>Html
       </td>
       <td align="center" width="90">
