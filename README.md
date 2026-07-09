@@ -54,6 +54,18 @@
     </tr> 
   </table>
 </div>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Management-Agile%20Delivery-blueviolet" />
+  <img src="https://img.shields.io/badge/MERN-Full%20Stack-ff69b4" />
+  <img src="https://img.shields.io/badge/Next.js-Production%20Apps-black" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange" />
+  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" />
+</p>
+
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ataulmohsin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohsin900" />
   <a href="https://ataulmohsin.vercel.app/">Portfolio</a>
