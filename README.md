@@ -134,8 +134,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ataulmohsin900&hide_border=true&show_icons=true&bg_color=141321&title_color=F85D7F&icon_color=fb4362&text_bold=false&text_color=F8D866" alt="GitHub stats" />
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ataulmohsin900&langs_count=8&layout=compact&hide_border=true&bg_color=141321&title_color=F85D7F&icon_color=F8D866" alt="Top languages" />
+</p>
+
+<p align="center">
+  <em>GitHub stats card temporarily unavailable due to external service outage.</em>
 </p>
 
 <h2>Connect</h2>
