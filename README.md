@@ -143,9 +143,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ataulmohsin900&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
 
+<p>
+<img src="https://github-stats-extended.vercel.app/api?username=ataulmohsin900&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ataulmohsin900&langs_count=8&layout=compact&hide_border=true&bg_color=141321&title_color=F85D7F&icon_color=F8D866" alt="Top languages" />
 </p>
+
 <p align="center">
   <em>GitHub stats card temporarily unavailable due to external service outage.</em>
 </p>
