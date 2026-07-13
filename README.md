@@ -155,16 +155,6 @@
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ataulmohsin900&langs_count=8&layout=compact&hide_border=true&bg_color=141321&title_color=F85D7F&icon_color=F8D866" alt="Top languages" style="margin-left: 2px;" />
 </p>
 
-<h2>Connect</h2>
-
-<p align="center">
-  <a href="https://www.hackerrank.com" target="_blank"><img height="60" width="60" src="WEBP/hr.webp" alt="HackerRank" /></a>
-  <a href="https://www.codeforces.com/" target="_blank"><img height="60" width="60" src="WEBP/cf.webp" alt="Codeforces" /></a>
-  <a href="https://www.hackerearth.com/@ataulmohsin900/" target="_blank"><img height="60" width="60" src="SVG/he.svg" alt="HackerEarth" /></a>
-  <a href="https://www.codechef.com/users/sunny_vibe_98" target="_blank"><img height="60" width="60" src="SVG/cc.svg" alt="CodeChef" /></a>
-  <a href="https://leetcode.com/u/ataulmohsin900/" target="_blank"><img height="60" width="60" src="WEBP/lc.webp" alt="LeetCode" /></a>
-</p>
-
 <p align="center">
   If you found this profile useful, feel free to connect or explore the repositories below.
 </p>
