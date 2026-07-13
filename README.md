@@ -74,6 +74,12 @@
   <tr>
     <td valign="top" width="62%">
       <h2>About</h2>
+
+
+
+
+
+
       <p>
         I am a full-stack developer focused on building practical web applications,
         cloud-native solutions, and developer-friendly systems. My work spans
@@ -150,13 +156,6 @@
 </p>
 
 <h2>Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ataul-mohsin-khalid-767159215/" target="_blank"><img height="60" width="60" src="SVG/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://fb.com/ataulmohin" target="_blank"><img height="60" width="60" src="SVG/facebook.svg" alt="Facebook" /></a>
-  <a href="https://twitter.com/atamohsin900" target="_blank"><img height="60" width="60" src="SVG/twitter.svg" alt="Twitter" /></a>
-  <a href="https://ataulmohsin.vercel.app/" target="_blank"><img height="60" width="60" src="SVG/dev.svg" alt="Portfolio" /></a>
-</p>
 
 <p align="center">
   <a href="https://www.hackerrank.com" target="_blank"><img height="60" width="60" src="WEBP/hr.webp" alt="HackerRank" /></a>
