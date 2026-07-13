@@ -144,7 +144,7 @@
 </p>
 
 <p>
-<img src="https://github-stats-extended.vercel.app/api?username=ataulmohsin900&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=ataulmohsin900&show_icons=true&theme=radical&hide_border=true" width="30%" />
 
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ataulmohsin900&langs_count=8&layout=compact&hide_border=true&bg_color=141321&title_color=F85D7F&icon_color=F8D866" alt="Top languages" />
 </p>
