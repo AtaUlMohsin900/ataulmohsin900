@@ -74,13 +74,7 @@
   <tr>
     <td valign="top" width="62%">
       <h2>About</h2>
-
-
-
-
-
-
-      <p>
+       <p>
         I am a full-stack developer focused on building practical web applications,
         cloud-native solutions, and developer-friendly systems. My work spans
         frontend, backend, DevOps, and platform automation.
