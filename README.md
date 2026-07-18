@@ -87,7 +87,7 @@
       </ul>
     </td>
     <td valign="top" width="38%">
-      <img alt="Coding" width="100%" src="https://medium.com/@ansballard/creating-gifs-for-web-development-from-the-terminal-6ad529aae4a4">
+      <img alt="Coding" width="100%" src="/GIF/code.gif">
     </td>
   </tr>
 </table>
