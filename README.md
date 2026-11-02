@@ -16,7 +16,7 @@
         <br>TypeScript
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="60" />
         <br>AWS
       </td>
       <td align="center" width="90">
